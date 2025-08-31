@@ -40,7 +40,7 @@ This portfolio features **3D elements, smooth animations, interactive showcases,
 
 ## 🔗 Live Demo
 
-👉 [Visit My Portfolio](https://your-portfolio-link.com) 
+👉 [Visit My Portfolio](https://about-me-dg.netlify.app/) 
 
 ---
 
